@@ -1,2 +1,2 @@
-# Facial-Expression-Recognition
-Detect and analyse facial expression to determine sentiment
+# Face-Detection
+Detect hukman face with the help of web camera
